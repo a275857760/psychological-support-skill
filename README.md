@@ -2,7 +2,7 @@
 
 > **用"我"说话，不用 AI 当盾牌。真诚、直接，不跪不端。**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Commercial Paid](https://img.shields.io/badge/License-Commercial%20Paid-red.svg)](LICENSE)
 
 ---
 
@@ -102,13 +102,24 @@ cp SKILL.md ~/.openclaw/workspace/skills/阿良/SKILL.md
 
 ## 📜 License
 
-[MIT](LICENSE) © 2026
+⚠️ **商业付费许可协议** —— 下载、使用、复制、修改均需获得付费授权。
+
+详见 [LICENSE](LICENSE) 文件。
+
+© 2026 a275857760. All rights reserved.
 
 ---
 
-## 🌱 贡献
+## 💰 商业授权
 
-欢迎 Issue 和 PR —— 如果你发现某个回应还不够真诚、还有"套路味"，或者有新的议题需要加入框架，欢迎提出。
+本作品采用 **商业付费许可协议**。
+
+如需下载、使用或集成「阿良」到你的产品中，请联系作者获取授权：
+- **GitHub**: https://github.com/a275857760
+
+---
+
+*阿良 —— 陪你把心里那团乱麻，慢慢理顺 🧡*
 
 ---
 
